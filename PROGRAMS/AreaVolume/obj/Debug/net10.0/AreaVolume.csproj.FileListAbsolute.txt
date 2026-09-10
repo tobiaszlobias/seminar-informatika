@@ -1,0 +1,15 @@
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\bin\Debug\net10.0\AreaVolume.exe
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\bin\Debug\net10.0\AreaVolume.deps.json
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\bin\Debug\net10.0\AreaVolume.runtimeconfig.json
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\bin\Debug\net10.0\AreaVolume.dll
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\bin\Debug\net10.0\AreaVolume.pdb
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.AssemblyInfoInputs.cache
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.AssemblyInfo.cs
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.csproj.CoreCompileInputs.cache
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.sourcelink.json
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.dll
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\refint\AreaVolume.dll
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.pdb
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\AreaVolume.genruntimeconfig.cache
+C:\Users\chlapekt\Desktop\seminar-informatika\PROGRAMS\AreaVolume\obj\Debug\net10.0\ref\AreaVolume.dll
